@@ -10,8 +10,8 @@ My goal is to secure a stable position where I can effectively contribute my ski
 
 ## :computer: Programming I Love
 - Frontend and backend development
-- Blockchain
-- Javascript 
+- Javascript
+- Artificial Intelligence
 
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abirarifur&layout=compact">
