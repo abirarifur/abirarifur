@@ -6,7 +6,7 @@
 
 
 
-To achieve a stable position where I can contribute effectively with my skills as a software professional, acquire relevant technical skills & get a job in a field that will allow me to make the best use of my skills, abilities, and professionalism.
+My goal is to secure a stable position where I can effectively contribute my skills as a software professional, continuously enhance my technical expertise, and pursue a role in a field that allows me to maximize the use of my abilities, experience, and professional growth.
 
 ## :computer: Programming I Love
 - Frontend and backend development
